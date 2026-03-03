@@ -2,7 +2,7 @@
 
 ## **Author**
 * Duyen Thanh Thao Nguyen (myUH ID: 2329157)
-* * An Tran (myUH ID: 2261820)
+* An Tran (myUH ID: 2261820)
 
 ## **Overview**
 
