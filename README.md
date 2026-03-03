@@ -131,12 +131,6 @@ The project successfully achieved its goals by:
 * **Integrating methods:** Combining clustering (unsupervised) with classification (supervised)
 
 ---
-
-## **Team Collaboration**
-All team members contributed collaboratively across all phases, including data cleaning, visualization, modeling, evaluation, and documentation.
-
----
-
 ## **Contents of the ZIP File**
 1. **README.md**: Documentation and execution instructions
 2. **dblp-ref**: Contains the raw DBLP dataset (3 million papers across four JSON files), each including title, abstract, authors, venue, year, citations, and references. These records serve as the raw input for all tasks in the reports. 
