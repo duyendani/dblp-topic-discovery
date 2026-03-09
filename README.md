@@ -2,7 +2,6 @@
 
 ## **Author**
 * Duyen Thanh Thao Nguyen 
-* An Tran 
 
 ## **Overview**
 
